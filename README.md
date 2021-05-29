@@ -3,8 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-<img width="451" alt="Screen Shot 2021-05-30 at 02 21 43" src="https://user-images.githubusercontent.com/49494580/120083186-28daa080-c0f1-11eb-9578-94b07404da21.png">
-<img width="442" alt="Screen Shot 2021-05-30 at 02 22 03" src="https://user-images.githubusercontent.com/49494580/120083192-2c6e2780-c0f1-11eb-8a70-bbb31c1baf05.png">
+<img width="451" alt="Screen Shot 2021-05-30 at 02 21 43" src="https://user-images.githubusercontent.com/49494580/120083186-28daa080-c0f1-11eb-9578-94b07404da21.png"><img width="442" alt="Screen Shot 2021-05-30 at 02 22 03" src="https://user-images.githubusercontent.com/49494580/120083192-2c6e2780-c0f1-11eb-8a70-bbb31c1baf05.png">
 <img width="441" alt="Screen Shot 2021-05-30 at 02 22 15" src="https://user-images.githubusercontent.com/49494580/120083193-2f691800-c0f1-11eb-9240-3c0f4a48275e.png">
 <img width="444" alt="Screen Shot 2021-05-30 at 02 22 24" src="https://user-images.githubusercontent.com/49494580/120083194-31cb7200-c0f1-11eb-826c-d0e326132d6f.png">
 <img width="447" alt="Screen Shot 2021-05-30 at 02 23 10" src="https://user-images.githubusercontent.com/49494580/120083196-33953580-c0f1-11eb-92ce-23632ebb55e9.png">
